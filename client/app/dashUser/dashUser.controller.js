@@ -29,24 +29,24 @@ angular.module('culturalystApp')
 
     $scope.favorites = [
       {
-        img: "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+        img: "https://github.com/smbowler/culturalyst-yeoman/blob/feat/artistCard/client/assets/img/ar.png?raw=true",
         name: 'Alon',
         title: 'Rapper Extraordinaire'
       },
       {
-        img: "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+        img: "https://github.com/smbowler/culturalyst-yeoman/blob/feat/artistCard/client/assets/img/profile.png?raw=true",
         name: 'Sam',
         title: 'Sculptor'
       },
       {
-        img: "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+        img: "https://github.com/smbowler/culturalyst-yeoman/blob/feat/artistCard/client/assets/img/bk.png?raw=true",
         name: 'Brian',
         title: 'Philosopher'
       },
       {
-        img: "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==",
+        img: "https://raw.githubusercontent.com/smbowler/culturalyst-yeoman/feat/artistCard/client/assets/img/mykia.png",
         name: 'Mykia',
-        title: 'Token Girl'
+        title: 'CSS Sorceress'
       }
     ];
 
