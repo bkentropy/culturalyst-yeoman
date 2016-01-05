@@ -1,6 +1,6 @@
-# culturalyst
+## What is Culturalyst?
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.0.2.
+  Culturalyst is an online platform that brings together fans and artists.  Is supplies the user with a method to discover new artists in the area, and support through a patronage mechanism these same artists.
 
 ## Getting Started
 
